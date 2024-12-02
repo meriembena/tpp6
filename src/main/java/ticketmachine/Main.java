@@ -6,7 +6,7 @@ public class Main {
 		TicketMachine machine = new TicketMachine(50);
 		System.out.println("L'utilisateur insère 60 centimes");
 		machine.insertMoney(60);
-		System.out.println("L'utilisateur appuie sur 'Impression ticket'");
+		System.out.println("L'utilisateur appuiee sur 'Impression ticket'");
 		machine.printTicket();
 	}
 }
